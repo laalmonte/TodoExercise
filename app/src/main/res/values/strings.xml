@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDoExercise</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="title">Title (up to 30 Characters):</string>
+    <string name="title_validation">Invalid Title</string>
+    <string name="date_created">Date Created:</string>
+    <string name="image">Icon or Image:</string>
+    <string name="desc">Description (up to 200 characters):</string>
+    <string name="input_title_here">Input Title Here</string>
+    <string name="input_url">Input or Paste URL Here</string>
+    <string name="input_description">Input Description Here</string>
+    <string name="create">Create</string>
+    <string name="save">Save</string>
+    <string name="check_connection">Please check connection and restart app</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>

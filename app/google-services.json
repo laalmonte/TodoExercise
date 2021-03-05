@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751901440183",
+    "project_id": "todoexercise-c2db5",
+    "storage_bucket": "todoexercise-c2db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751901440183:android:59f21a3a7cef53cfbe7532",
+        "android_client_info": {
+          "package_name": "com.todoexercise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751901440183-ejgrv1l0r0riplgn8o9hs52iibl2033g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJiMYETXODqsjX3vTu6cDTzJhY7jiY9BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751901440183-ejgrv1l0r0riplgn8o9hs52iibl2033g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
